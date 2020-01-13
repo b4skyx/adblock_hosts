@@ -1,1 +1,1 @@
-## Adguard filters converted to hosts.
+## Adguard filters converted to hosts..
