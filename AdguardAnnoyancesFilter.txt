@@ -1,7 +1,7 @@
 # AdguardAnnoyancesFilter
 #
 # Converted from - https://filters.adtidy.org/extension/chromium/filters/14.txt
-# Last converted - Thu, 09 Jan 2020 09:24:30 +0000
+# Last converted - Mon, 24 Feb 2020 15:14:39 +0000
 #
 
 0.0.0.0 ext-stat.ru
@@ -19,7 +19,9 @@
 0.0.0.0 consent.cmp.oath.com
 0.0.0.0 cookielaw.org
 0.0.0.0 cookiebot.com
+0.0.0.0 consent.mz-web.de
 0.0.0.0 consent.dumont.de
+0.0.0.0 metomic.io
 0.0.0.0 privacy-center.org
 0.0.0.0 cmp.dmgmediaprivacy.co.uk
 0.0.0.0 consensu.org
@@ -90,6 +92,28 @@
 0.0.0.0 easyfeeed.com
 0.0.0.0 vinuser5.biz
 0.0.0.0 ss.6ib.ru
+0.0.0.0 jubi.ai
+0.0.0.0 bildirnet.com
+0.0.0.0 admessage.support
+0.0.0.0 ntvsw.com
+0.0.0.0 ichecknotifyfriends.info
+0.0.0.0 valkirum.com
+0.0.0.0 luravius.com
+0.0.0.0 amacritus.com
+0.0.0.0 bakibarus.com
+0.0.0.0 danorenius.com
+0.0.0.0 newsgrabber.me
+0.0.0.0 actirinius.com
+0.0.0.0 defundium.com
+0.0.0.0 app.getbeamer.com
+0.0.0.0 hurdleyreer.info
+0.0.0.0 feraciumus.com
+0.0.0.0 select5.realpush.network
+0.0.0.0 tranqulitius.com
+0.0.0.0 quaruzon.com
+0.0.0.0 deltaction.com
+0.0.0.0 trenchenious.com
+0.0.0.0 tempersonic.com
 0.0.0.0 informfeed.ru
 0.0.0.0 bildirt.com
 0.0.0.0 cracataum.com
@@ -195,7 +219,6 @@
 0.0.0.0 cdn.gravitec.net
 0.0.0.0 cdn.jeapie.com
 0.0.0.0 cdn.letreach.com
-0.0.0.0 cdn.onesignal.com
 0.0.0.0 sendpulse.com
 0.0.0.0 panaur.com
 0.0.0.0 push.connect.digital
@@ -221,6 +244,7 @@
 0.0.0.0 dl.metabar.ru
 0.0.0.0 plista.com
 0.0.0.0 widgets.digitalmediacommunications.com
+0.0.0.0 widget.beesender.com
 0.0.0.0 chat.autofaq.ai
 0.0.0.0 widget.webica.pro
 0.0.0.0 getbutton.io
@@ -298,6 +322,7 @@
 0.0.0.0 widgets.livetex.ru
 0.0.0.0 gubagootracking.com
 0.0.0.0 cdn.gubagoo.io
+0.0.0.0 widgets.hadilive.com
 0.0.0.0 actionbutton.co
 0.0.0.0 holyclock.com
 0.0.0.0 shomershabes.co.il
