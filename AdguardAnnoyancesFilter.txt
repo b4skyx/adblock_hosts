@@ -1,7 +1,7 @@
 # AdguardAnnoyancesFilter
 #
 # Converted from - https://filters.adtidy.org/extension/chromium/filters/14.txt
-# Last converted - Mon, 24 Feb 2020 15:14:39 +0000
+# Last converted - Sat, 07 Mar 2020 12:40:45 +0000
 #
 
 0.0.0.0 ext-stat.ru
@@ -92,8 +92,13 @@
 0.0.0.0 easyfeeed.com
 0.0.0.0 vinuser5.biz
 0.0.0.0 ss.6ib.ru
+0.0.0.0 foxpush.net
+0.0.0.0 truepush.com
+0.0.0.0 actuanius.com
 0.0.0.0 jubi.ai
 0.0.0.0 bildirnet.com
+0.0.0.0 face-push.com
+0.0.0.0 relateddigital.com
 0.0.0.0 admessage.support
 0.0.0.0 ntvsw.com
 0.0.0.0 ichecknotifyfriends.info
@@ -342,6 +347,7 @@
 0.0.0.0 civey.com
 0.0.0.0 widgets.opinary.com
 0.0.0.0 insticator.com
+0.0.0.0 corover.mobi
 0.0.0.0 wat.atms.at
 0.0.0.0 purechat.com
 0.0.0.0 secure.livechatinc.com
