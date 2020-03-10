@@ -1,7 +1,7 @@
 # AdguardBaseFilters
 #
 # Converted from - https://filters.adtidy.org/extension/chromium/filters/2.txt
-# Last converted - Sat, 07 Mar 2020 12:40:41 +0000
+# Last converted - Tue, 10 Mar 2020 13:04:02 +0000
 #
 
 0.0.0.0 rz261.cn
@@ -144,6 +144,9 @@
 0.0.0.0 xn--wxtr9fwyxk9c.club
 0.0.0.0 zhangguangzong.com
 0.0.0.0 taoguohe.com
+0.0.0.0 gadsabs.com
+0.0.0.0 aptantasp.site
+0.0.0.0 rowoardog.com
 0.0.0.0 mehherrig.com
 0.0.0.0 boyalebut.site
 0.0.0.0 aimaniape.club
@@ -2567,6 +2570,7 @@
 0.0.0.0 rcdn.pro,badfilter
 0.0.0.0 samsungads.com
 0.0.0.0 samsungtvads.com
+0.0.0.0 b.bestcontenthost.com
 0.0.0.0 asgdfasad.mm-cgnews.com
 0.0.0.0 d1nx2jii03b4ju.cloudfront.net
 0.0.0.0 d3hj4iyx6t1waz.cloudfront.net
@@ -3089,6 +3093,7 @@
 0.0.0.0 4t6u1amm3t3n.com
 0.0.0.0 9t5.me
 0.0.0.0 abgligarchan.com
+0.0.0.0 absolubleldan.site
 0.0.0.0 acmsg.online
 0.0.0.0 acticgreasonsc.info
 0.0.0.0 adearsened.info
@@ -3117,6 +3122,7 @@
 0.0.0.0 allycollegedstrie.info
 0.0.0.0 ampallall.site
 0.0.0.0 aniashboy.club
+0.0.0.0 anotherederi.site
 0.0.0.0 anybagant.club
 0.0.0.0 anycadark.site
 0.0.0.0 armashair.site
@@ -3157,6 +3163,7 @@
 0.0.0.0 boratestfishke.info
 0.0.0.0 boubeeth.com
 0.0.0.0 boursnormaticm.info
+0.0.0.0 brinarynuker.site
 0.0.0.0 bupserge.com
 0.0.0.0 bursagarc.com
 0.0.0.0 cadsecz.com
@@ -3203,6 +3210,7 @@
 0.0.0.0 dating2cloud.org
 0.0.0.0 dcontonalscho.info
 0.0.0.0 dddomainccc.com
+0.0.0.0 deatheriwevo.site
 0.0.0.0 decisionediv.site
 0.0.0.0 delainlygoverhe.info
 0.0.0.0 denotatorum.site
@@ -3282,6 +3290,7 @@
 0.0.0.0 fufoatch.com
 0.0.0.0 fuyuap.xyz
 0.0.0.0 g2afse.com
+0.0.0.0 gadsabz.com
 0.0.0.0 gadsans.com
 0.0.0.0 gadsanz.com
 0.0.0.0 gadsats.com
@@ -3294,6 +3303,7 @@
 0.0.0.0 gagnibcan.com
 0.0.0.0 gapsfartrely.best
 0.0.0.0 gardoult.com
+0.0.0.0 gdl5vtbbv0lj.com
 0.0.0.0 gdmconvtrck.com
 0.0.0.0 gebralefukim.site
 0.0.0.0 gedspecificano.info
@@ -3320,6 +3330,7 @@
 0.0.0.0 hamadotax.site
 0.0.0.0 haypaydig.club
 0.0.0.0 heckagny.com
+0.0.0.0 hedressive.info
 0.0.0.0 himselvepostly.site
 0.0.0.0 hoosorie.com
 0.0.0.0 hounicuy.com
@@ -3366,10 +3377,12 @@
 0.0.0.0 laichaim.net
 0.0.0.0 lassistslegisten.info
 0.0.0.0 ldevillaechildren.info
+0.0.0.0 leagent.info
 0.0.0.0 leathtexactlycin.info
 0.0.0.0 lebkeresxa.ml
 0.0.0.0 leontius-eli.com
 0.0.0.0 lessite.pro
+0.0.0.0 libanyelm.com
 0.0.0.0 liketube.xyz
 0.0.0.0 linkev.com
 0.0.0.0 littlementok.site
@@ -3424,6 +3437,7 @@
 0.0.0.0 nfarmerlycompa.info
 0.0.0.0 ngholishingsm.info
 0.0.0.0 niebrundveepursuede.info
+0.0.0.0 nimmediu.info
 0.0.0.0 nishathlessharr.info
 0.0.0.0 nishfarmerlypas.info
 0.0.0.0 nlzz7a3md4sx.com
@@ -3484,6 +3498,7 @@
 0.0.0.0 pheekrie.com
 0.0.0.0 pheevoug.com
 0.0.0.0 phookree.com
+0.0.0.0 pinocularoud.site
 0.0.0.0 plyvitablesagree.info
 0.0.0.0 poleonaryprac.info
 0.0.0.0 portedlysarcatc.info
@@ -3554,6 +3569,7 @@
 0.0.0.0 shoawhom.com
 0.0.0.0 silsfrastinggove.info
 0.0.0.0 simpaignsen.info
+0.0.0.0 sincernething.site
 0.0.0.0 singthouthappi.info
 0.0.0.0 sisewepod.com
 0.0.0.0 sisterncoalitical.info
@@ -3569,6 +3585,7 @@
 0.0.0.0 stonseeb.net
 0.0.0.0 streamclub.best
 0.0.0.0 streamclub.fun
+0.0.0.0 stremanp.com
 0.0.0.0 styheremo.site
 0.0.0.0 superjuryger.site
 0.0.0.0 supertrackingz.com
@@ -4288,6 +4305,8 @@
 0.0.0.0 adsvcs.com
 0.0.0.0 adsvert.com
 0.0.0.0 adsvids.com
+0.0.0.0 adsvolum.com
+0.0.0.0 adsvolume.com
 0.0.0.0 adsxgm.com
 0.0.0.0 adszom.com
 0.0.0.0 adtag.cc
@@ -4379,6 +4398,7 @@
 0.0.0.0 advideum.com
 0.0.0.0 advinci.co
 0.0.0.0 advinci.net
+0.0.0.0 adviralmedia.com
 0.0.0.0 advise.co
 0.0.0.0 advisorded.com
 0.0.0.0 adviva.net
@@ -5760,6 +5780,7 @@
 0.0.0.0 finverty.info
 0.0.0.0 firaxtech.com
 0.0.0.0 firefeeder.com
+0.0.0.0 fireflyengagement.com
 0.0.0.0 first-rate.com
 0.0.0.0 firstadsolution.com
 0.0.0.0 firstimpression.io
@@ -6055,6 +6076,7 @@
 0.0.0.0 hd149026b.com
 0.0.0.0 hdpass.club
 0.0.0.0 hdpass.info
+0.0.0.0 headbidder.net
 0.0.0.0 header.tech
 0.0.0.0 headlinesnetwork.com
 0.0.0.0 headup.com
@@ -9042,8 +9064,22 @@
 0.0.0.0 yvsystem.com$document
 0.0.0.0 142.91.$document
 0.0.0.0 51.158.$document
-0.0.0.0 51.77.$document
-0.0.0.0 51.89.$document
+0.0.0.0 51.77.227.100$document
+0.0.0.0 51.77.227.101$document
+0.0.0.0 51.77.227.102$document
+0.0.0.0 51.77.227.103$document
+0.0.0.0 51.77.227.96$document
+0.0.0.0 51.77.227.97$document
+0.0.0.0 51.77.227.98$document
+0.0.0.0 51.77.227.99$document
+0.0.0.0 51.89.187.136$document
+0.0.0.0 51.89.187.137$document
+0.0.0.0 51.89.187.138$document
+0.0.0.0 51.89.187.139$document
+0.0.0.0 51.89.187.140$document
+0.0.0.0 51.89.187.141$document
+0.0.0.0 51.89.187.142$document
+0.0.0.0 51.89.187.143$document
 0.0.0.0 167.206.10.148
 0.0.0.0 bootstrap-js.com
 0.0.0.0 g-statistic.com
@@ -10884,6 +10920,7 @@
 0.0.0.0 chkqqbpppcuihn.com
 0.0.0.0 chlekoyxrbi.com
 0.0.0.0 chnktglh.com
+0.0.0.0 chofezrj.com
 0.0.0.0 chqspuonctkgz.com
 0.0.0.0 chvwtxtzmzbggo.com
 0.0.0.0 chxwlqtvgrw.com
@@ -12188,6 +12225,7 @@
 0.0.0.0 hpasvfsndgr.com
 0.0.0.0 hpbczauldndnep.com
 0.0.0.0 hpbsyqsypxy.com
+0.0.0.0 hpeshwdwkzyz.com
 0.0.0.0 hpkkzzyek.com
 0.0.0.0 hplctrsd.com
 0.0.0.0 hpmyhrljkbl.com
@@ -12526,6 +12564,7 @@
 0.0.0.0 ixhcokzelvvxs.com
 0.0.0.0 ixkbavqbpsm.com
 0.0.0.0 ixkkhacwdxpgpt.com
+0.0.0.0 ixlkoyqqikmwb.com
 0.0.0.0 ixskusmnsb.com
 0.0.0.0 ixsogpaexhgzn.com
 0.0.0.0 ixtmbdajhvimtv.com
@@ -12570,6 +12609,7 @@
 0.0.0.0 jbiqepilzn.com
 0.0.0.0 jbkxmktmatzk.com
 0.0.0.0 jbpsorexvuapf.com
+0.0.0.0 jbqeyfrli.com
 0.0.0.0 jbqhnzmvh.com
 0.0.0.0 jbrpciuloi.com
 0.0.0.0 jbwunmehf.com
@@ -14139,6 +14179,7 @@
 0.0.0.0 ooecgdeq.com
 0.0.0.0 oofophdrkjoh.com
 0.0.0.0 oofpjjtc.com
+0.0.0.0 oojthlwtlu.com
 0.0.0.0 ookdapjylpvq.com
 0.0.0.0 ookiqhfioldxwj.com
 0.0.0.0 oonenbygymsl.com
@@ -15602,6 +15643,7 @@
 0.0.0.0 ryrrhgpmlif.com
 0.0.0.0 ryvqkjfsnmrya.com
 0.0.0.0 ryybhoklizmuew.com
+0.0.0.0 rzbozucqgmostr.com
 0.0.0.0 rzddlsybql.com
 0.0.0.0 rzdpobutiy.com
 0.0.0.0 rzfldcrlwe.com
@@ -16451,6 +16493,7 @@
 0.0.0.0 vjhjolgaz.com
 0.0.0.0 vjltrbzrtqmkib.com
 0.0.0.0 vjqshoyjxwk.com
+0.0.0.0 vjuvorqe.com
 0.0.0.0 vjzcgotoy.com
 0.0.0.0 vkbftstazhjgdx.com
 0.0.0.0 vkhrnisuky.com
@@ -20447,6 +20490,7 @@
 0.0.0.0 googleadapis.l.google.com
 0.0.0.0 goto.4bc.co
 0.0.0.0 hb.emxdgt.com
+0.0.0.0 hbid.ams3.cdn.digitaloceanspaces.com
 0.0.0.0 homad-global-configs.schneevonmorgen.com
 0.0.0.0 hosting.conduit.com
 0.0.0.0 hotlinking.dosmil.imap.cc

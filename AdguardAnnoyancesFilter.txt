@@ -1,7 +1,7 @@
 # AdguardAnnoyancesFilter
 #
 # Converted from - https://filters.adtidy.org/extension/chromium/filters/14.txt
-# Last converted - Sat, 07 Mar 2020 12:40:45 +0000
+# Last converted - Tue, 10 Mar 2020 13:04:06 +0000
 #
 
 0.0.0.0 ext-stat.ru
