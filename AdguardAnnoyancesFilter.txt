@@ -1,7 +1,7 @@
 # AdguardAnnoyancesFilter
 #
 # Converted from - https://filters.adtidy.org/extension/chromium/filters/14.txt
-# Last converted - Tue, 10 Mar 2020 13:04:06 +0000
+# Last converted - Tue, 31 Mar 2020 07:10:57 +0000
 #
 
 0.0.0.0 ext-stat.ru
@@ -14,6 +14,7 @@
 0.0.0.0 sortsummer.com
 0.0.0.0 puffypull.com
 0.0.0.0 copperchickens.com
+0.0.0.0 ttauri.toptenreviews.com
 0.0.0.0 tracker.convead.io
 0.0.0.0 oil.axelspringer.com
 0.0.0.0 consent.cmp.oath.com
@@ -92,7 +93,14 @@
 0.0.0.0 easyfeeed.com
 0.0.0.0 vinuser5.biz
 0.0.0.0 ss.6ib.ru
+0.0.0.0 kerchenovias.com
+0.0.0.0 wertendium.com
+0.0.0.0 bagirastyle.ru
+0.0.0.0 meladonicum.com
+0.0.0.0 alerts.hungama.com
 0.0.0.0 foxpush.net
+0.0.0.0 reallypab.com
+0.0.0.0 sendelven.com
 0.0.0.0 truepush.com
 0.0.0.0 actuanius.com
 0.0.0.0 jubi.ai
@@ -248,6 +256,7 @@
 0.0.0.0 illicium.web.money
 0.0.0.0 dl.metabar.ru
 0.0.0.0 plista.com
+0.0.0.0 booster.webtradecenter.com
 0.0.0.0 widgets.digitalmediacommunications.com
 0.0.0.0 widget.beesender.com
 0.0.0.0 chat.autofaq.ai
@@ -327,6 +336,7 @@
 0.0.0.0 widgets.livetex.ru
 0.0.0.0 gubagootracking.com
 0.0.0.0 cdn.gubagoo.io
+0.0.0.0 getsitecontrol.com
 0.0.0.0 widgets.hadilive.com
 0.0.0.0 actionbutton.co
 0.0.0.0 holyclock.com
@@ -354,3 +364,4 @@
 0.0.0.0 sge-chat.skorpik.ru
 0.0.0.0 widgets.coingecko.com
 0.0.0.0 informer.minfin.com.ua
+0.0.0.0 cdnjs.buymeacoffee.com
