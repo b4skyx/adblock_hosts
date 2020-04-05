@@ -1,7 +1,7 @@
 # AdguardAnnoyancesFilter
 #
 # Converted from - https://filters.adtidy.org/extension/chromium/filters/14.txt
-# Last converted - Tue, 31 Mar 2020 07:10:57 +0000
+# Last converted - Sun, 05 Apr 2020 13:44:56 +0000
 #
 
 0.0.0.0 ext-stat.ru
@@ -93,6 +93,7 @@
 0.0.0.0 easyfeeed.com
 0.0.0.0 vinuser5.biz
 0.0.0.0 ss.6ib.ru
+0.0.0.0 dankulavius.com
 0.0.0.0 kerchenovias.com
 0.0.0.0 wertendium.com
 0.0.0.0 bagirastyle.ru
@@ -336,6 +337,7 @@
 0.0.0.0 widgets.livetex.ru
 0.0.0.0 gubagootracking.com
 0.0.0.0 cdn.gubagoo.io
+0.0.0.0 toolbar.complex.com
 0.0.0.0 getsitecontrol.com
 0.0.0.0 widgets.hadilive.com
 0.0.0.0 actionbutton.co
@@ -357,6 +359,7 @@
 0.0.0.0 civey.com
 0.0.0.0 widgets.opinary.com
 0.0.0.0 insticator.com
+0.0.0.0 web.tolstoycomments.com
 0.0.0.0 corover.mobi
 0.0.0.0 wat.atms.at
 0.0.0.0 purechat.com
