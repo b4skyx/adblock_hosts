@@ -1,7 +1,7 @@
 # AdguardAnnoyancesFilter
 #
 # Converted from - https://filters.adtidy.org/extension/chromium/filters/14.txt
-# Last converted - Wed, 13 May 2020 06:03:52 +0000
+# Last converted - Wed, 20 May 2020 15:08:21 +0000
 #
 
 0.0.0.0 ext-stat.ru
@@ -9,8 +9,11 @@
 0.0.0.0 alertme.news
 0.0.0.0 ipepostman.com
 0.0.0.0 wb.whatsbroadcast.com
+0.0.0.0 squirrelhands.com
+0.0.0.0 causecherry.com
 0.0.0.0 lindenhurstsneads.doyondeville.com
 0.0.0.0 willseyvillefingerville.polaccafaison.com
+0.0.0.0 absorbingprison.com
 0.0.0.0 chesterstandard-gb.chesterstandard.co.uk
 0.0.0.0 sp.desmoinesregister.com
 0.0.0.0 sortsummer.com
@@ -95,6 +98,7 @@
 0.0.0.0 pushofferpro.com
 0.0.0.0 leechiza.net
 0.0.0.0 pushtora.com
+0.0.0.0 dolweerum.com
 0.0.0.0 getpush.org
 0.0.0.0 cdn.mp3bars.com
 0.0.0.0 trenrasius.com
