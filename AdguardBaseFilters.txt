@@ -1,7 +1,7 @@
 # AdguardBaseFilters
 #
 # Converted from - https://filters.adtidy.org/extension/chromium/filters/2.txt
-# Last converted - Wed, 20 May 2020 15:08:13 +0000
+# Last converted - Tue, 26 May 2020 10:20:26 +0000
 #
 
 0.0.0.0 tngmn.com
@@ -146,6 +146,14 @@
 0.0.0.0 zhangguangzong.com
 0.0.0.0 taoguohe.com
 0.0.0.0 kolsh.cn
+0.0.0.0 estoopsi.com
+0.0.0.0 poptival.com
+0.0.0.0 storeacdn.com
+0.0.0.0 adfpoint.com$document,popup
+0.0.0.0 rubiginose.com
+0.0.0.0 properatersch.fun
+0.0.0.0 qqqwes.com
+0.0.0.0 cdn.tubecorp.com
 0.0.0.0 dostophog.com
 0.0.0.0 newsunads.com
 0.0.0.0 smart2cnjuh34jb.com
@@ -2772,6 +2780,7 @@
 0.0.0.0 rcdn.pro,badfilter
 0.0.0.0 samsungads.com
 0.0.0.0 samsungtvads.com
+0.0.0.0 dkyp75kj7ldlr.cloudfront.net
 0.0.0.0 d11enq2rymy0yl.cloudfront.net
 0.0.0.0 d3kblkhdtjv0tf.cloudfront.net
 0.0.0.0 d261u4g5nqprix.cloudfront.net
@@ -3409,6 +3418,7 @@
 0.0.0.0 absolubleldan.site
 0.0.0.0 accedenonre.club
 0.0.0.0 acceptiongere.site
+0.0.0.0 acceptionijes.site
 0.0.0.0 accompathych.site
 0.0.0.0 acdcdn.com
 0.0.0.0 acmsg.online
@@ -3425,6 +3435,7 @@
 0.0.0.0 agrammemarg.info
 0.0.0.0 agreenikeru.site
 0.0.0.0 ahjdwb31.xyz
+0.0.0.0 ahqpqpdjpj.com
 0.0.0.0 aickeeho.com
 0.0.0.0 ailaskarc.club
 0.0.0.0 ailpielei.com
@@ -3502,6 +3513,7 @@
 0.0.0.0 aukalerim.com
 0.0.0.0 aurdeert.net
 0.0.0.0 aurtooks.com
+0.0.0.0 authorneratu.club
 0.0.0.0 authornernsa.pro
 0.0.0.0 auxml.com
 0.0.0.0 averaladmi.info
@@ -3532,6 +3544,7 @@
 0.0.0.0 bedrooming.club
 0.0.0.0 beeashale.club
 0.0.0.0 beewanuk.net
+0.0.0.0 behavingsali.club
 0.0.0.0 beiven.pw
 0.0.0.0 belgradualuna.site
 0.0.0.0 berningbegi.club
@@ -3571,6 +3584,7 @@
 0.0.0.0 c0z.xyz
 0.0.0.0 c26e9ccd4e063b.com
 0.0.0.0 c3t-system-err.club
+0.0.0.0 c4sc.s4d.xyz
 0.0.0.0 c50021876c67fd14.com
 0.0.0.0 c5b39ff13b3259df.com
 0.0.0.0 c74df06d52c9da686f17.com
@@ -3594,6 +3608,7 @@
 0.0.0.0 ce0dc8aa55.com
 0.0.0.0 ceincreatedaughtcha.info
 0.0.0.0 ceparateauab.info
+0.0.0.0 cert.s4d.xyz
 0.0.0.0 certakesime.site
 0.0.0.0 cesikelylibrarie.site
 0.0.0.0 cespousseluniv.info
@@ -3660,6 +3675,7 @@
 0.0.0.0 d72gb9oukw3j.com
 0.0.0.0 daamjzrlon.com
 0.0.0.0 dacoloment.pro
+0.0.0.0 dads.s4d.xyz
 0.0.0.0 dadskis.com
 0.0.0.0 dadskiz.com
 0.0.0.0 dadsoks.com
@@ -3681,6 +3697,7 @@
 0.0.0.0 demannewcure.site
 0.0.0.0 denotatorum.site
 0.0.0.0 desigactinific.pro
+0.0.0.0 dexchangeinc.com
 0.0.0.0 dgafgadsgkjg.top
 0.0.0.0 dhappeasesem.site
 0.0.0.0 diantcummiere.info
@@ -3690,6 +3707,7 @@
 0.0.0.0 dingsincernett.info
 0.0.0.0 dingviewjeep.info
 0.0.0.0 disappenedy.site
+0.0.0.0 discountryvc.club
 0.0.0.0 discoverapp.xyz
 0.0.0.0 displayvertising.com
 0.0.0.0 distinesseqe.site
@@ -3825,10 +3843,12 @@
 0.0.0.0 feelineweatyeng.info
 0.0.0.0 feeohmchi.com
 0.0.0.0 fessmegilscha.info
+0.0.0.0 ff4s.s4d.xyz
 0.0.0.0 ffickiedisticre.site
 0.0.0.0 ffortyimagist.info
 0.0.0.0 fibpeeode.site
 0.0.0.0 fibusedie.site
+0.0.0.0 fifo.s4d.xyz
 0.0.0.0 findicaterperty.site
 0.0.0.0 fingahvf.top
 0.0.0.0 fishkekcamp.info
@@ -3927,13 +3947,16 @@
 0.0.0.0 himselveseg.club
 0.0.0.0 himselvesobr.club
 0.0.0.0 hincludingse.site
+0.0.0.0 hislationaler.club
 0.0.0.0 histlingklakson.site
 0.0.0.0 histormedengi.site
 0.0.0.0 hk56947pjjq5.com
 0.0.0.0 hoemasfat.site
 0.0.0.0 hooify.com
 0.0.0.0 hoosorie.com
+0.0.0.0 hospitecrew.club
 0.0.0.0 hounicuy.com
+0.0.0.0 hourselflosu.site
 0.0.0.0 housandady.site
 0.0.0.0 housopsi.net
 0.0.0.0 howbyehid.site
@@ -4014,6 +4037,7 @@
 0.0.0.0 lamberserer.club
 0.0.0.0 lassistslegisten.info
 0.0.0.0 lationwordsi.club
+0.0.0.0 lattemptweh.club
 0.0.0.0 latviancedef.site
 0.0.0.0 laygunwow.com
 0.0.0.0 layshyjar.com
@@ -4100,6 +4124,7 @@
 0.0.0.0 mk1lyl406xmp.com
 0.0.0.0 ml0z14azlflr.com
 0.0.0.0 mlsys.xyz
+0.0.0.0 mmnk.s4d.xyz
 0.0.0.0 moapteeg.net
 0.0.0.0 mob1ledev1ces.com
 0.0.0.0 mobbahjug.com
@@ -4183,9 +4208,11 @@
 0.0.0.0 ntsimprovide.info
 0.0.0.0 nvironymscli.info
 0.0.0.0 nvitdeservala.site
+0.0.0.0 ny8yoo2ro5aa.com
 0.0.0.0 oajujirg.net
 0.0.0.0 obaukads.com
 0.0.0.0 obefjbb4mykw.com
+0.0.0.0 obtainlylibuk.club
 0.0.0.0 od0gddq27wkk.com
 0.0.0.0 oevqxivhquovq.com
 0.0.0.0 offickiekizashi.site
@@ -4197,6 +4224,7 @@
 0.0.0.0 ohmchoicechi.online
 0.0.0.0 ojwd63thskiz.com
 0.0.0.0 olicyconsendsi.info
+0.0.0.0 olkrzytv.com
 0.0.0.0 olmsoneenh.info
 0.0.0.0 oloniansyello.site
 0.0.0.0 ommodatesjoin.info
@@ -4222,6 +4250,7 @@
 0.0.0.0 otentieschoo.site
 0.0.0.0 otsurvedchange.info
 0.0.0.0 oughgoalityabo.info
+0.0.0.0 oukreesy.net
 0.0.0.0 ouncialliberte.site
 0.0.0.0 ountapaveralle.info
 0.0.0.0 ousseventi.info
@@ -4259,6 +4288,7 @@
 0.0.0.0 perhangeflets.site
 0.0.0.0 pertycleaner.site
 0.0.0.0 petchesa.net
+0.0.0.0 pf34zdjoeycr.com
 0.0.0.0 pffw8mgd.com
 0.0.0.0 pgradualirelev.info
 0.0.0.0 phabsoun.net
@@ -4280,11 +4310,13 @@
 0.0.0.0 possipationd.info
 0.0.0.0 postlnk.com
 0.0.0.0 potentingaknt.club
+0.0.0.0 potentingxyr.club
 0.0.0.0 potentionsdarket.site
 0.0.0.0 poubotem.com
 0.0.0.0 poudeeri.com
 0.0.0.0 powerapp.download
 0.0.0.0 poxeemso.com
+0.0.0.0 practingunef.site
 0.0.0.0 practivelizar.club
 0.0.0.0 presearchity.site
 0.0.0.0 prevealhealth.info
@@ -4309,6 +4341,7 @@
 0.0.0.0 ptiftoud.com
 0.0.0.0 ptogheeb.net
 0.0.0.0 ptoulsey.com
+0.0.0.0 ptoushoa.com
 0.0.0.0 punpisurn.site
 0.0.0.0 puntoenun.site
 0.0.0.0 push.house
@@ -4395,6 +4428,7 @@
 0.0.0.0 sacaharag.club
 0.0.0.0 sadorsagreeng.info
 0.0.0.0 sadsecz.com
+0.0.0.0 sainstandset.site
 0.0.0.0 sal4m649fke3.com
 0.0.0.0 santrateduk.site
 0.0.0.0 sapelmyep.com
@@ -4412,9 +4446,12 @@
 0.0.0.0 secured-iphone.club
 0.0.0.0 secured-phone.club
 0.0.0.0 seepsocu.net
+0.0.0.0 seex.s4d.xyz
 0.0.0.0 separenujilo.club
+0.0.0.0 sersproposal.club
 0.0.0.0 setemoump.com
 0.0.0.0 seventual.site
+0.0.0.0 severymurden.site
 0.0.0.0 sexagogal.site
 0.0.0.0 sg2rgnza7k9t.com
 0.0.0.0 sgftrrs.com
@@ -4422,6 +4459,7 @@
 0.0.0.0 shenouth.com
 0.0.0.0 shiptoud.com
 0.0.0.0 shoawhom.com
+0.0.0.0 showeveresz.club
 0.0.0.0 shyama-jay.com
 0.0.0.0 sightcoloniansy.site
 0.0.0.0 significbystal.club
@@ -4442,6 +4480,7 @@
 0.0.0.0 soldinggrily.site
 0.0.0.0 solicensusuntf.site
 0.0.0.0 soltitate.site
+0.0.0.0 solutelynewt.site
 0.0.0.0 soofeest.net
 0.0.0.0 sosohmmen.club
 0.0.0.0 sousaira.com
@@ -4497,6 +4536,7 @@
 0.0.0.0 terialnevitiesini.info
 0.0.0.0 tfncnhd8p95c.com
 0.0.0.0 thamsais.com
+0.0.0.0 theationopo.club
 0.0.0.0 theatredveres.site
 0.0.0.0 theatrialmero.club
 0.0.0.0 theeburs.com
@@ -4552,6 +4592,7 @@
 0.0.0.0 uinelypresse.info
 0.0.0.0 uitabletublis.info
 0.0.0.0 ukcomparends.pro
+0.0.0.0 ul8seok7w5al.com
 0.0.0.0 uluswozzel.info
 0.0.0.0 ummerciseha.info
 0.0.0.0 undedfracted.club
@@ -4628,6 +4669,7 @@
 0.0.0.0 windoorsew.club
 0.0.0.0 winsistakesme.site
 0.0.0.0 withinknuko.club
+0.0.0.0 withougheves.site
 0.0.0.0 withoughstors.club
 0.0.0.0 wityamdog.com
 0.0.0.0 wizliebeg.com
@@ -4658,6 +4700,7 @@
 0.0.0.0 yinsterkneeline.info
 0.0.0.0 yonashbin.com
 0.0.0.0 yonatefin.site
+0.0.0.0 z4es.s4d.xyz
 0.0.0.0 z501lpfg9x8v.com
 0.0.0.0 zaivikuk.com
 0.0.0.0 zaugroaw.net
@@ -4668,6 +4711,7 @@
 0.0.0.0 zrnedsainsteady.info
 0.0.0.0 zroundancez.site
 0.0.0.0 zudrurta.com
+0.0.0.0 zuhs.s4d.xyz
 0.0.0.0 zxxtkrkzfyy3.com
 0.0.0.0 zzdb5p4upiug.com
 0.0.0.0 0azx1.com
@@ -8784,6 +8828,7 @@
 0.0.0.0 ritchelu.com
 0.0.0.0 riverhit.com
 0.0.0.0 rixaka.com
+0.0.0.0 rmgserving.com
 0.0.0.0 rmoreagricula.info
 0.0.0.0 rmxads.com
 0.0.0.0 rnmd.net
@@ -10086,6 +10131,7 @@
 0.0.0.0 vfghc.com$document
 0.0.0.0 wasshoneaningar.pro$document
 0.0.0.0 yvsystem.com$document
+0.0.0.0 :35.224.227.218$webrtc
 0.0.0.0 51.77.227.100$document
 0.0.0.0 51.77.227.101$document
 0.0.0.0 51.77.227.102$document
@@ -22595,6 +22641,7 @@
 0.0.0.0 delivery.smashing.services
 0.0.0.0 djv99sxoqpv11.cloudfront.net
 0.0.0.0 dkm6b5q0h53z4.cloudfront.net
+0.0.0.0 engine.laweekly.com
 0.0.0.0 fun.content.ninjakiwi.com
 0.0.0.0 fun.wormania.io
 0.0.0.0 fun1.arcadeprehacks.com

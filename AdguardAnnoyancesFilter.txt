@@ -1,7 +1,7 @@
 # AdguardAnnoyancesFilter
 #
 # Converted from - https://filters.adtidy.org/extension/chromium/filters/14.txt
-# Last converted - Wed, 20 May 2020 15:08:21 +0000
+# Last converted - Tue, 26 May 2020 10:20:36 +0000
 #
 
 0.0.0.0 ext-stat.ru
@@ -13,6 +13,9 @@
 0.0.0.0 causecherry.com
 0.0.0.0 lindenhurstsneads.doyondeville.com
 0.0.0.0 willseyvillefingerville.polaccafaison.com
+0.0.0.0 bournemouthecho-gb.bournemouthecho.co.uk
+0.0.0.0 prepareplanes.com
+0.0.0.0 massivemark.com
 0.0.0.0 absorbingprison.com
 0.0.0.0 chesterstandard-gb.chesterstandard.co.uk
 0.0.0.0 sp.desmoinesregister.com
@@ -98,6 +101,8 @@
 0.0.0.0 pushofferpro.com
 0.0.0.0 leechiza.net
 0.0.0.0 pushtora.com
+0.0.0.0 via.batch.com
+0.0.0.0 hrbpark.bid
 0.0.0.0 dolweerum.com
 0.0.0.0 getpush.org
 0.0.0.0 cdn.mp3bars.com
@@ -261,7 +266,7 @@
 0.0.0.0 sendpulse.com
 0.0.0.0 panaur.com
 0.0.0.0 push.connect.digital
-0.0.0.0 push.esputnik.com
+0.0.0.0 esputnik.com
 0.0.0.0 push.esputnik.com.ua
 0.0.0.0 push.expert
 0.0.0.0 push.world
@@ -272,7 +277,6 @@
 0.0.0.0 push4site.com
 0.0.0.0 cleverpush.com
 0.0.0.0 pushaya.com
-0.0.0.0 push.esputnik.com
 0.0.0.0 trendentrium.com
 0.0.0.0 purchacade.info
 0.0.0.0 sdki.truepush.com
