@@ -1,16 +1,18 @@
 # AdguardAnnoyancesFilter
 #
 # Converted from - https://filters.adtidy.org/extension/chromium/filters/14.txt
-# Last converted - Tue, 26 May 2020 10:20:36 +0000
+# Last converted - Sun, 07 Jun 2020 16:34:11 +0000
 #
 
 0.0.0.0 ext-stat.ru
 0.0.0.0 mystatext.ru
+0.0.0.0 engine.findaphd.com$
 0.0.0.0 alertme.news
 0.0.0.0 ipepostman.com
 0.0.0.0 wb.whatsbroadcast.com
 0.0.0.0 squirrelhands.com
 0.0.0.0 causecherry.com
+0.0.0.0 hocgeese.com
 0.0.0.0 lindenhurstsneads.doyondeville.com
 0.0.0.0 willseyvillefingerville.polaccafaison.com
 0.0.0.0 bournemouthecho-gb.bournemouthecho.co.uk
@@ -101,6 +103,11 @@
 0.0.0.0 pushofferpro.com
 0.0.0.0 leechiza.net
 0.0.0.0 pushtora.com
+0.0.0.0 monstelenius.com
+0.0.0.0 bmfeed.ru
+0.0.0.0 pathfootprint.com
+0.0.0.0 rokettsaince.com
+0.0.0.0 zorbanmat.com
 0.0.0.0 via.batch.com
 0.0.0.0 hrbpark.bid
 0.0.0.0 dolweerum.com
@@ -285,6 +292,7 @@
 0.0.0.0 loboclick.com
 0.0.0.0 aristianewr.club
 0.0.0.0 reprocautious.com
+0.0.0.0 cdn.pushowl.com
 0.0.0.0 neutralen.nl
 0.0.0.0 xhamsterpremium.com
 0.0.0.0 shop.kicker.de
@@ -295,6 +303,8 @@
 0.0.0.0 plista.com
 0.0.0.0 booster.webtradecenter.com
 0.0.0.0 widgets.digitalmediacommunications.com
+0.0.0.0 uberlaw.ru
+0.0.0.0 api.visitor.chat
 0.0.0.0 whisbi.com
 0.0.0.0 widget.my.feedot.com
 0.0.0.0 widget.reserve-widget.ru

@@ -1,9 +1,10 @@
 # AdguardSocialMediaFilters
 #
 # Converted from - https://filters.adtidy.org/extension/chromium/filters/4.txt
-# Last converted - Tue, 26 May 2020 10:20:27 +0000
+# Last converted - Sun, 07 Jun 2020 16:34:05 +0000
 #
 
+0.0.0.0 omt.shinobi.jp
 0.0.0.0 friends2follow.com
 0.0.0.0 b.hatena.ne.jp
 0.0.0.0 getbutton.io
