@@ -1,20 +1,22 @@
 # AdguardAnnoyancesFilter
 #
 # Converted from - https://filters.adtidy.org/extension/chromium/filters/14.txt
-# Last converted - Sun, 07 Jun 2020 16:34:11 +0000
+# Last converted - Wed, 08 Jul 2020 12:03:11 +0000
 #
 
 0.0.0.0 ext-stat.ru
 0.0.0.0 mystatext.ru
-0.0.0.0 engine.findaphd.com$
+0.0.0.0 engine.findaphd.com
 0.0.0.0 alertme.news
 0.0.0.0 ipepostman.com
 0.0.0.0 wb.whatsbroadcast.com
+0.0.0.0 honorableland.com
 0.0.0.0 squirrelhands.com
 0.0.0.0 causecherry.com
 0.0.0.0 hocgeese.com
-0.0.0.0 lindenhurstsneads.doyondeville.com
-0.0.0.0 willseyvillefingerville.polaccafaison.com
+0.0.0.0 habitualhumor.com
+0.0.0.0 dapperdiscussion.com
+0.0.0.0 curvycry.com
 0.0.0.0 bournemouthecho-gb.bournemouthecho.co.uk
 0.0.0.0 prepareplanes.com
 0.0.0.0 massivemark.com
@@ -24,31 +26,41 @@
 0.0.0.0 sortsummer.com
 0.0.0.0 puffypull.com
 0.0.0.0 copperchickens.com
+0.0.0.0 lindenhurstsneads.doyondeville.com
+0.0.0.0 willseyvillefingerville.polaccafaison.com
 0.0.0.0 ttauri.toptenreviews.com
+0.0.0.0 consent.cookiefirst.com
+0.0.0.0 hs-banner.com
+0.0.0.0 hs-scripts.com
+0.0.0.0 cookiehub.net
+0.0.0.0 cdn.opencmp.net
+0.0.0.0 cookie-switch.viminds.de
+0.0.0.0 cookieinfoscript.com
 0.0.0.0 cookie-script.com
 0.0.0.0 tracker.convead.io
 0.0.0.0 oil.axelspringer.com
 0.0.0.0 consent.cmp.oath.com
 0.0.0.0 cookielaw.org
 0.0.0.0 cookiebot.com
-0.0.0.0 consent.mz-web.de
+0.0.0.0 consent.trustarc.com
 0.0.0.0 consent.dumont.de
 0.0.0.0 metomic.io
 0.0.0.0 privacy-center.org
 0.0.0.0 cmp.dmgmediaprivacy.co.uk
-0.0.0.0 consensu.org
 0.0.0.0 policy.cookieinformation.com
 0.0.0.0 consent.truste.com
 0.0.0.0 iubenda.com
 0.0.0.0 r42tag.com
 0.0.0.0 cookieq.com
 0.0.0.0 usercentrics.eu
-0.0.0.0 consent.mz-web.de
+0.0.0.0 consensu.org
+0.0.0.0 cdn.consentmanager.mgr.consensu.org
 0.0.0.0 cmp.macworld.co.uk
 0.0.0.0 consent.prismamedia.com
 0.0.0.0 rodo.agora.pl
 0.0.0.0 tracking-consent.static.anwb.nl
 0.0.0.0 cc.silktide.com
+0.0.0.0 consent.mz-web.de
 0.0.0.0 2app.lk
 0.0.0.0 br.app.link
 0.0.0.0 popupmaker.com
@@ -103,6 +115,7 @@
 0.0.0.0 pushofferpro.com
 0.0.0.0 leechiza.net
 0.0.0.0 pushtora.com
+0.0.0.0 gerdonarium.com
 0.0.0.0 monstelenius.com
 0.0.0.0 bmfeed.ru
 0.0.0.0 pathfootprint.com
@@ -112,7 +125,6 @@
 0.0.0.0 hrbpark.bid
 0.0.0.0 dolweerum.com
 0.0.0.0 getpush.org
-0.0.0.0 cdn.mp3bars.com
 0.0.0.0 trenrasius.com
 0.0.0.0 aswpsdkus.com
 0.0.0.0 sereendipit.com
@@ -292,6 +304,11 @@
 0.0.0.0 loboclick.com
 0.0.0.0 aristianewr.club
 0.0.0.0 reprocautious.com
+0.0.0.0 vergilimus.com
+0.0.0.0 dlyakleopushey.ru
+0.0.0.0 sendsay.ru
+0.0.0.0 serumawus.com
+0.0.0.0 webpush.hackers.com
 0.0.0.0 cdn.pushowl.com
 0.0.0.0 neutralen.nl
 0.0.0.0 xhamsterpremium.com
@@ -303,6 +320,7 @@
 0.0.0.0 plista.com
 0.0.0.0 booster.webtradecenter.com
 0.0.0.0 widgets.digitalmediacommunications.com
+0.0.0.0 chat.sociomile.com
 0.0.0.0 uberlaw.ru
 0.0.0.0 api.visitor.chat
 0.0.0.0 whisbi.com
@@ -387,7 +405,10 @@
 0.0.0.0 widgets.livetex.ru
 0.0.0.0 gubagootracking.com
 0.0.0.0 cdn.gubagoo.io
+0.0.0.0 date.cursorinfo.co.il
+0.0.0.0 widget.getyourguide.com
 0.0.0.0 toolbar.complex.com
+0.0.0.0 getsitecontrol.com
 0.0.0.0 widgets.hadilive.com
 0.0.0.0 actionbutton.co
 0.0.0.0 holyclock.com
