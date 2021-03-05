@@ -1,3 +1,8 @@
+```
+DEPRICARED
+I no longer use host based filteres
+```
+
 ## Adguard Filter lists converted in Hosts file format.
 
 The folder hierarchy is as follows
